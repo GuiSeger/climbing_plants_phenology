@@ -4,7 +4,7 @@ Guilherme Dubal dos Santos Seger, Sandra Maria Hartz, and Leandro da Silva Duart
 
 # Files description:
 
-Seger_etal_JVS_data.RData
+Seger_etal_JVS_data.RData - 
 Dataset containing all objects necessary to execute the following scripts.
 
 SCRIPT_Figure_1.R - 
