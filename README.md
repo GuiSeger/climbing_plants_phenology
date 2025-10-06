@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17279494.svg)](https://doi.org/10.5281/zenodo.17279494)
+
 Dataset and codes for the submitted manuscript
 
 "Contrasting phylogenetic signals in flowering and fruiting phenology at species and assemblage scale in a climbing plant community".
