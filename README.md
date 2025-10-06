@@ -38,4 +38,7 @@ Calculate the phylogenetic signal on flowering and fruiting phenology through th
 
 > SCRIPT_Table_S6.R
 
-Calculate the contribution of phylogeny, environment, and their shared influence on flowering and fruiting phenology by employing a variance partitioning on PVR. 
+Calculate the contribution of phylogeny, environment, and their shared influence on flowering and fruiting phenology by employing a variance partitioning on PVR.
+
+
+#### The code was developed and tested using the R statistical environment, R version 4.5.1 (R Development Core Team, 2025).
