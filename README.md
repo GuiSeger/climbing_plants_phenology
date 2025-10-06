@@ -1,8 +1,11 @@
-Dataset and codes for the submitted manuscript "Contrasting phylogenetic signals in flowering and fruiting phenology at species and assemblage scale in a climbing plant community".
+Dataset and codes for the submitted manuscript
 
-Guilherme Dubal dos Santos Seger, Sandra Maria Hartz, and Leandro da Silva Duarte
+"Contrasting phylogenetic signals in flowering and fruiting phenology at species and assemblage scale in a climbing plant community".
 
-## Files description:
+Guilherme Dubal dos Santos Seger, Sandra Maria Hartz & Leandro da Silva Duarte
+***
+
+### Files description:
 
 > Seger_etal_JVS_data.RData
  
@@ -40,5 +43,5 @@ Calculate the phylogenetic signal on flowering and fruiting phenology through th
 
 Calculate the contribution of phylogeny, environment, and their shared influence on flowering and fruiting phenology by employing a variance partitioning on PVR.
 
-
-#### The code was developed and tested using the R statistical environment, R version 4.5.1 (R Development Core Team, 2025).
+***
+#### Codes were developed and tested using the R statistical environment, R version 4.5.1 (R Development Core Team, 2025).
